@@ -32,6 +32,8 @@ The game demonstrates the basics of Java OOP, interaction between classes, comba
 1. Import the project into **IntelliJ**, **VS Code**, or **Eclipse**
 2. Run `Main.java`
 
+<script src="//onlinegdb.com/embed/js/smuUKAxd_b?theme=undefined"></script>
+
 ---
 
 Feel free to contact me if you have feedback or suggestions!
