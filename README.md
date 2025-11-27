@@ -32,7 +32,10 @@ The game demonstrates the basics of Java OOP, interaction between classes, comba
 1. Import the project into **IntelliJ**, **VS Code**, or **Eclipse**
 2. Run `Main.java`
 
-<script src="//onlinegdb.com/embed/js/smuUKAxd_b?theme=undefined"></script>
+### Try it online
+
+You can run the project directly in your browser using OnlineGDB:  
+[Run in OnlineGDB](https://onlinegdb.com/smuUKAxd_b)
 
 ---
 
